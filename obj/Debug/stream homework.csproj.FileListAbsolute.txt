@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\stream homework\stream homework\bin\Debug\stream homework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\stream homework\stream homework\bin\Debug\stream homework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\stream homework\stream homework\bin\Debug\stream homework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\stream homework\stream homework\obj\Debug\stream homework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\stream homework\stream homework\obj\Debug\stream homework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\stream homework\stream homework\obj\Debug\stream homework.pdb
